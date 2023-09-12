@@ -35,7 +35,7 @@
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ! ꜰɪʀꜱᴛʟʏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ.😜 
 
-[ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ 9 ʜᴇʀᴇ](https://telegra.ph/file/89f23433043a4bfa255c3.jpg)
+[ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ 9 ʜᴇʀᴇ](https://te.legra.ph/file/6a817381d251ba2ebe228.jpg)
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/itszshivam/OP-USERBOT2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
